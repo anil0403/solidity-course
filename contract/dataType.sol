@@ -51,6 +51,5 @@ contract DataTypes {
     // int public defaultInt ; // 0
     // address public addr; // 0x0000000000....
     //
-    // 
+    //
 }
-
