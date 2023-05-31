@@ -4,73 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "hey",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "no",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "u",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "u256",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "u8",
-				"outputs": [
-					{
-						"internalType": "uint8",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -99,11 +33,11 @@
 	},
 	"sources": {
 		"contract/dataType.sol": {
-			"keccak256": "0xea9b5c76bfa00df3a1889e6010e39261b02fde80d6c9066c095ac73d4e484366",
+			"keccak256": "0xb22bed8a5a5bdc3139aeabfae26d8fefa5700bbfa73e47861ba8aa80a0d59827",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ae8f65e081cab1c48a120cd5cb181fa3b7ac8ffde427147da35cfca6491a9eb2",
-				"dweb:/ipfs/QmdLvvQonhFPyTX8pLoUJcghRGACj3L456xydmLsn4hZ4j"
+				"bzz-raw://05ef61f875b3f9f6fd59a5519cc564cff44286ce418478197ecd58cca8b0f3b2",
+				"dweb:/ipfs/QmNxd54T8sWX7Y137C9QUmEPY4C92r7zBGpp6rBbDEvvGw"
 			]
 		}
 	},
