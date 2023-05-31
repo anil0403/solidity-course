@@ -19,7 +19,7 @@ contract LocalVariables {
 
         uint256 i = 345;
         myNumber = i;
-        i += 45;
+        i += 90;
         address myAddress = address(1);
         return (myAddress, myNumber, i);
     }
