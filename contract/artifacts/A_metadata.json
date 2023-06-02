@@ -46,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contract/inheritance.sol": "C"
+			"contract/inheritance.sol": "A"
 		},
 		"evmVersion": "london",
 		"libraries": {},

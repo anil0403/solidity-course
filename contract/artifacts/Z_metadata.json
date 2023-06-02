@@ -6,30 +6,34 @@
 	"output": {
 		"abi": [
 			{
-				"anonymous": false,
-				"inputs": [
-					{
-						"indexed": false,
-						"internalType": "string",
-						"name": "message",
-						"type": "string"
-					}
-				],
-				"name": "Log",
-				"type": "event"
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
 			},
 			{
 				"inputs": [],
-				"name": "bar",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"name": "getName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "foo",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -46,7 +50,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contract/inheritance.sol": "C"
+			"contract/inheritance.sol": "Z"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -61,11 +65,11 @@
 	},
 	"sources": {
 		"contract/inheritance.sol": {
-			"keccak256": "0xe3ed18b8f8981da7a3db6ad02df8809a1f3419324a52ae851f797574f6322678",
+			"keccak256": "0xfe9910641266fa20e480b56a65b6d288a961128f0c74f12ec42c15f8a68f9f5b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3181cb05dc5a8250bab572be0a8f755cdf6f6e64b8f0b47d209d3e308b6ff58c",
-				"dweb:/ipfs/QmRgaHMoiQFfuYBTC2PD1Z3t4GvDZbF79FVAdXxLGbSjev"
+				"bzz-raw://e760f0ae03df6b7fa5084701fd5ffbb6dd6b9587a838ebb3baa32258efe46253",
+				"dweb:/ipfs/QmPJt2f9qbk2VPkCRSHg6A6nK7t14jjUVgRUnXA9yojzaK"
 			]
 		}
 	},
